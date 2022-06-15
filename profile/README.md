@@ -8,4 +8,6 @@ For support, [read the docs](https://docs.birb.studio), [join our discord](https
 
 -----------------------------------------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=birb.studio&layout=compact)](https://github.com/birb-studio/)
+![sponsors](https://img.shields.io/github/sponsors/birb-studio)
+![followers](https://img.shields.io/github/followers/birb-studio)
+![discord](https://img.shields.io/discord/974058469105729536)
