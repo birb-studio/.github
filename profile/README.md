@@ -10,4 +10,4 @@ For support, [read the docs](https://docs.birb.studio), [join our discord](https
 
 ![sponsors](https://img.shields.io/github/sponsors/birb-studio)
 ![followers](https://img.shields.io/github/followers/birb-studio)
-![discord](https://img.shields.io/discord/974058469105729536)
+![discord](https://img.shields.io/discord/974058469105729536?label=discord)
